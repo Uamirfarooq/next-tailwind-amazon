@@ -9,3 +9,8 @@ steps
    c. add main section
    d. add footer
    e. add tailwindcss classes
+
+2. list products
+   a. add data.js
+   b. add images
+   c. render products
